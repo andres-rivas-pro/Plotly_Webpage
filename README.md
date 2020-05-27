@@ -1,6 +1,6 @@
 # Plotly_Webpage
 
-## Creating a dynamic web dashboard that contains various visual charts and an interactive information panel.
+### Creating a dynamic web dashboard that contains various visual charts and an interactive information panel.
 
 Dashboard URL:
 https://raven-rivas.github.io/Plotly_Webpage/
@@ -17,7 +17,7 @@ https://raven-rivas.github.io/Plotly_Webpage/
 
 [plots.js](https://github.com/raven-rivas/Plotly_Webpage/blob/master/plots.js)
 
-### Use d3.json to fetch and parse biodiversity datasamples.json, manipulate and filter data to display information specific to particular volunteer.
+### Use d3.json to fetch and parse biodiversity data [samples.json](https://github.com/raven-rivas/Plotly_Webpage/blob/master/samples.json), manipulate and filter data to display information specific to particular volunteer.
 
 * Use event handlers in JavaScript to add interactivity to a data visualization.
 
