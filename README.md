@@ -13,8 +13,9 @@ https://raven-rivas.github.io/Plotly_Webpage/
 
 ### To build an interactive dashboard that allows each volunteer to access their demographic information as well as visual charts with information about bacterial samples found from the belly button.
 
-# Project Process
-plots.js
+## Project Process
+
+[plots.js](https://github.com/raven-rivas/Plotly_Webpage/blob/master/plots.js)
 
 ### Use d3.json to fetch and parse biodiversity datasamples.json, manipulate and filter data to display information specific to particular volunteer.
 
@@ -22,6 +23,6 @@ plots.js
 
 * Create dynamic plots with Plotly, including bar charts, bubble chart, and gauge indicator chart.
 
-index.html
+[index.html](https://github.com/raven-rivas/Plotly_Webpage/blob/master/index.html)
 
 * Populate JavaScript and charts into html with BootStrap styling.
